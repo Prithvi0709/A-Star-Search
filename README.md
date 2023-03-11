@@ -9,5 +9,7 @@ There are three implementations
 2. BFS
 3. A* Search
 
+The input format in depicted in the text files.
+
 View the pdf file to see more details about the heuristics used.
 
