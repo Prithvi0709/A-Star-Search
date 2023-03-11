@@ -1,8 +1,7 @@
 # A-Star-Search
 Implementation of the A* Search Algorithm for the water pitcher problem.
 
-Takes input data from the user for number of pitchers and required goal state.
-And produces the output state if it exists in shortest number of steps.
+Takes input data from the user for number of pitchers and required goal state and produces the output state if it exists in shortest number of steps.
 
 There are three implementations 
 1. DFS
